@@ -1,0 +1,11 @@
+data_01:
+  input_data: "1"
+  expect_data: "休眠"
+
+data_02:
+  input_data: "i"
+  expect_data: "IP地址"
+
+data_03:
+  input_data: "m"
+  expect_data: "MAC地址"
